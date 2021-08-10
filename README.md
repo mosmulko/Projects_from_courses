@@ -1,3 +1,4 @@
-Place where I can keep projects coded along the various instructors.
+Tech: React, hooks
+Course: React The Big Picture, Pluralsight
 
-Each project has it's own branch
+App that teaches how to use hooks through creation of interactive game
