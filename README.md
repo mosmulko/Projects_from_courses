@@ -1,3 +1,4 @@
-Place where I can keep projects coded along the various instructors.
+Tech: Express, PostgreSql
+Course: Complete Web Developer, Zero to Mastery
 
-Each project has it's own branch
+Server for Smartbrain app that handles user authentification and Clarify API requests
