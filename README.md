@@ -1,3 +1,4 @@
-Place where I can keep projects coded along the various instructors.
+Tech: React, Redux
+Course: Complete web developer, Zero to Mastery
 
-Each project has it's own branch
+App renders info based on the form input
