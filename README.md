@@ -1,2 +1,3 @@
-# Projects_from_courses
-Bigger projects that I coded following dev courses and tutorials
+Place where I can keep projects coded along the various instructors.
+
+Each project has it's own branch
