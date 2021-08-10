@@ -1,3 +1,4 @@
-Place where I can keep projects coded along the various instructors.
+Tech: React
+Course: Complete Web Developer, Zero to Mastery
 
-Each project has it's own branch
+App teaches how to use React and API. User can provide photo url and clarify API will detect faces, which will be marked on the photo using data points from the API
