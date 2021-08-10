@@ -1,3 +1,4 @@
-Place where I can keep projects coded along the various instructors.
+Tech: Express, API, mongodb, mongoose, mocha, supertest, sinon, Postman
+Course: RESTful Web Services with Node.js and Express, Pluralsight
 
-Each project has it's own branch
+Course showed how to create and test your own Restfull API
